@@ -81,7 +81,6 @@ a {
 /*START OF INFORMATION SECTION*/
 
 .info-container {
-    background-color: grey;
     padding: 5px 300px 50px;
     display: flex;
     flex-direction: column;
@@ -156,24 +155,25 @@ blockquote {
 
 
 .signup-container {
-    flex: 1;
-    background-color: brown;
-    padding: 5px 450px 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
 }
  .signup-content {
      background-color: #3882f6;
      display: flex;
+     flex: 1;
      align-items: center;
      color: #e5e7eb;
-     width: 1000px;
-     height: 100px;
-     padding: 35px 40px ;
+     padding: 30px 30px ;
      border-radius: 10px;
+     margin: 50px;
+     width: 1200px;
 
+ }
+
+ .signup-txt {
+     flex: 1;
  }
 
  .btn-bottom {
@@ -203,6 +203,8 @@ blockquote {
      flex-flow: column nowrap;
      justify-content: center;
      align-items: center;
+     height: 60px;
+
  }
 
  .footer-txt {
