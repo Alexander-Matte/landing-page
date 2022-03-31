@@ -1,1 +1,1 @@
-This project is to help me hammer down the fundementals from HTML, CSS, and flexbox. I have been giving an image of a landing page in which I should replicate.
+This project is to help me hammer down the fundementals from HTML, CSS, and flexbox. I have been giving an image of a landing page in which I should replicate. Created using instructions from The Odin Project --> https://www.theodinproject.com/lessons/foundations-landing-page
